@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="record_sound_list_view_text_color">#000000</color>
+    <color name="record_sound_content_text_color">#ffffffff</color>
+    <color name="record_sound_background">#4d4948</color>
+    <color name="record_sound_listview_background">#ffffffff</color>
+    <color name="record_sound_buttom_background">#00000000</color>
+
+    <color name="record_sound_buttom_done_enable">#ffffffff</color>
+    <color name="record_sound_buttom_done_disable">#ff827E7D</color>
+
+    <color name="trans">#00000000</color>
+    <color name="black">#000000</color>
+    <color name="alertdialog_line">#c6c6c6</color>
+    <color name="actionsheet_blue">#037BFF</color>
+</resources>
